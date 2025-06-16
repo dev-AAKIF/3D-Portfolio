@@ -153,7 +153,7 @@ export const experiences = [
         company_name: "Zyntric Tech",
         icon: zyntric,
         iconBg: "#000000",
-        date: "February 2024 - February 2025",
+        date: "February 2024 - April 2025",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
